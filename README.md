@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed
 
-**AI / ML engineer | deep learning for IoT | NLP and computer vision**  
+**AI / ML engineer | deep learning | NLP and computer vision**  
 from Gaza, building in Cairo
 
 ## About me
@@ -11,7 +11,6 @@ I like small, honest models that solve a concrete problem for people with limite
 
 ## What I'm up to
 
-&bull; Studying how leak detectors for water networks behave when sensor data goes missing: [water-leak-detection](https://github.com/mhmd1243/water-leak-detection)  
 &bull; Advanced AI diploma at Instant Courses (2026)  
 &bull; Preparing master's applications in AI
 
@@ -22,6 +21,8 @@ I like small, honest models that solve a concrete problem for people with limite
 | [**water-leak-detection**](https://github.com/mhmd1243/water-leak-detection) | Robustness of XGBoost and GRU leak detectors under data loss, noise, and drift (simulated water network) | Test AUC 0.985 with interpolation at a 75% gateway outage (zero-fill: 0.860) |
 | [**hr-policy-rag**](https://github.com/mhmd1243/hr-policy-rag) | Question-answering assistant over an HR policy handbook (RAG) | FastAPI + Streamlit app, Docker-ready |
 | [**arabic-restaurant-review-analyzer**](https://github.com/mhmd1243/arabic-restaurant-review-analyzer) | Arabic sentiment, NER, and summarization with Transformers | Sentiment accuracy 69.4% to 88.1% (majority baseline 71.0%) |
+| [**multimodal lung-disease diagnosis**](https://www.kaggle.com/code/mohammedmdarwish/multi-input-task) (Kaggle) | CNN with three frozen VGG19 branches (CT, chest X-ray, cough-audio images) fused for 4-class diagnosis | 97% test accuracy vs 90% for a single-branch baseline |
+| [**CNN**](https://github.com/mhmd1243/CNN) | Keras image classifiers: open vs closed eyes (64x64 grayscale) and 6-class jellyfish species (augmentation, BatchNorm) | Trained on the Kaggle datasets eyes-open-or-closed and jellyfish-types |
 | [**Unsupervised**](https://github.com/mhmd1243/Unsupervised) | Analysis of a simulated 5G network dataset (OMNeT++ / Simu5G), from my graduation project | 100 users: throughput, latency, coverage |
 
 ![Leak detection AUC as sensor data is lost](https://raw.githubusercontent.com/mhmd1243/water-leak-detection/main/figures/auc_vs_missing_data.png)
