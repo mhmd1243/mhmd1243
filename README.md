@@ -3,7 +3,7 @@
 **AI / ML engineer | Deep learning for IoT | NLP and computer vision**
 
 B.Eng. in Smart Systems Engineering (Islamic University of Gaza, 2025), based in Cairo.
-I build low-cost systems that stay reliable when data is missing or noisy, for under-resourced settings such as Gaza.
+
 
 ## Projects
 
