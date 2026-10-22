@@ -23,9 +23,6 @@ I like small, honest models that solve a concrete problem for people with limite
 | [**CNN**](https://github.com/mhmd1243/CNN) | Keras image classifiers: open vs closed eyes (64x64 grayscale) and 6-class jellyfish species (augmentation, BatchNorm) | Trained on the Kaggle datasets eyes-open-or-closed and jellyfish-types |
 | [**Unsupervised**](https://github.com/mhmd1243/Unsupervised) | Analysis of a simulated 5G network dataset (OMNeT++ / Simu5G), from my graduation project | 100 users: throughput, latency, coverage |
 
-![Leak detection AUC as sensor data is lost](https://raw.githubusercontent.com/mhmd1243/water-leak-detection/main/figures/auc_vs_missing_data.png)
-
-*water-leak-detection: test AUC as data is lost. Zero-fill collapses, interpolation holds.*
 
 ## Toolbox
 
