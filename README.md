@@ -18,6 +18,7 @@ I like small, honest models that solve a concrete problem for people with limite
 
 | Project | What it shows | Result |
 |---|---|---|
+| [**water-leak-detection**](https://github.com/mhmd1243/water-leak-detection) | Leak detection in a simulated water network (BattLeDIM L-Town) with XGBoost and GRU, tested under packet loss, gateway outages, noise, and drift | Under a 75% gateway outage, GRU ROC-AUC 0.985 with interpolation vs 0.860 with zero-fill |
 | [**arabic-restaurant-review-analyzer**](https://github.com/mhmd1243/arabic-restaurant-review-analyzer) | Arabic sentiment, NER, and summarization with Transformers | Sentiment accuracy 69.4% to 88.1% (majority baseline 71.0%) |
 | [**multimodal lung-disease diagnosis**](https://www.kaggle.com/code/mohammedmdarwish/multi-input-task) (Kaggle) | CNN with three frozen VGG19 branches (CT, chest X-ray, cough-audio images) fused for 4-class diagnosis | 97% test accuracy vs 90% for a single-branch baseline |
 | [**CNN**](https://github.com/mhmd1243/CNN) | Keras image classifiers: open vs closed eyes (64x64 grayscale) and 6-class jellyfish species (augmentation, BatchNorm) | Trained on the Kaggle datasets eyes-open-or-closed and jellyfish-types |
